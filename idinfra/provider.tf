@@ -1,5 +1,5 @@
-# GCP Provider
-# Using three resouces 
+# GCP Provider details
+# Using resouces 
 
 provider "google" {
   credentials = file(var.gcp_svc_key)
